@@ -1,0 +1,24 @@
+{
+  "name": "consultancyservices",
+  "version": "1.0.0",
+  "description": "Website used to fetch financial query",
+  "main": "index.html",
+  "scripts": {
+	"start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kritika-30/ConsultancyServices.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kritika-30/ConsultancyServices/issues"
+  },
+  "homepage": "https://github.com/Kritika-30/ConsultancyServices#readme",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
